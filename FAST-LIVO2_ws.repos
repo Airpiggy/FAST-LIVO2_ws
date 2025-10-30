@@ -1,17 +1,17 @@
 repositories:
-    src/FAST-LIVO2:
+    FAST-LIVO2:
         type: git 
         url: https://github.com/Airpiggy/FAST-LIVO2.git
         version: main
-    src/rpg_vikit:
+    rpg_vikit:
         type: git 
         url: https://github.com/xuankuzcr/rpg_vikit.git
         version: master
-    src/livox_ros_driver2:
+    livox_ros_driver2:
         type: git 
         url: https://github.com/Airpiggy/livox_ros_driver2.git
         version: master
-    src/realsense-ros:
+    realsense-ros:
         type: git 
         url: https://github.com/Airpiggy/realsense-ros.git
         version: ros1-legacy 
