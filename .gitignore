@@ -4,6 +4,7 @@ devel/
 install/
 log/
 .catkit_tools/
+.catkin_workspace
 
 # other
 .vscode/
