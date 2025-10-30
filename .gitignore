@@ -9,3 +9,6 @@ log/
 .vscode/
 .idea/
 .DS_Store/
+
+# managed by .repos
+src/*
