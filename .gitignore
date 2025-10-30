@@ -1,0 +1,11 @@
+# ros 
+build/
+devel/
+install/
+log/
+.catkit_tools/
+
+# other
+.vscode/
+.idea/
+.DS_Store/
