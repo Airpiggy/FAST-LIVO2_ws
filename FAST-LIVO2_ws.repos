@@ -15,3 +15,7 @@ repositories:
         type: git 
         url: https://github.com/Airpiggy/realsense-ros.git
         version: ros1-legacy 
+    cv_bridge:
+        type: git 
+        url: https://github.com/Airpiggy/cv_bridge.git
+        version: main
