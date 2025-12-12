@@ -19,3 +19,7 @@ repositories:
         type: git 
         url: https://github.com/Airpiggy/cv_bridge.git
         version: main
+    dev_pkg:
+        type: git 
+        url: https://github.com/Airpiggy/dev_pkg.git
+        version: main
